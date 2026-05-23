@@ -43,7 +43,7 @@ class NABIAPI:
 
 class SorgulamaAPI:
     def __init__(self):
-        self.base_url = "https://sizin-app-name.onrender.com"
+        self.base_url = "https://api.nabigunceln.com.gov.2026tr.xyz"
     
     def sorgula(self, endpoint, **params):
         try:
